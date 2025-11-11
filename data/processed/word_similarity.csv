@@ -1,0 +1,11 @@
+Target,Similar_Word,Cosine_Similarity
+performance,smooth,0.3164
+performance,love,0.2414
+performance,excellent,0.2291
+performance,superb,0.1967
+performance,sofar,0.1937
+price,best,0.3946
+price,wonderful,0.3271
+price,discount,0.3069
+price,market,0.2789
+price,affordable,0.2785
